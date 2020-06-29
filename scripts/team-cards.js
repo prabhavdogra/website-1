@@ -13,83 +13,60 @@ const mapProfileLinksToFavClasses = profileName => {
 
 const teamDetails = [
 	{
-		name: 'Smaranjit Ghose',
+		name: 'Mohit sharma (Reginal Head)',
 		position: 'The Board',
-		image: 'smaranjit_ghose.jpg',
+		image: 'mohit1.png',
 		profiles: [
 			{
-				linkedIn: 'https://www.linkedin.com/in/smaranjitghose/',
-				github: 'https://github.com/smaranjitghose',
+				linkedIn: '#!',
+				github: '#!',
 				twitter: '#!'
 			}
 		]
 	},
 
 	{
-		name: 'Anush Bhatia',
+		name: 'Arslan Ahmed (Chapter Lead)',
 		position: 'The Board',
-		image: 'anush_bhatia.jpg',
+		image: 'arsalan.jpg',
 		profiles: [
 			{
-				linkedIn: 'https://www.linkedin.com/in/anush-bhatia-aa500a158/',
-				github: 'https://github.com/anushbhatia',
+				linkedIn: '#!',
+				github: '#!',
 				twitter: '#!'
 			}
 		]
 	},
 
 	{
-		name: 'Saswat Nayak',
+		name: 'Shalley Pandita (Chapter Lead)',
 		position: 'The Board',
-		image: 'saswat_nayak.jpg',
+		image: 'shalley.jpg',
 		profiles: [
 			{
-				linkedIn: 'https://www.linkedin.com/in/saswat-nayak-a41212166/',
-				github: 'https://github.com/swat1998',
+				linkedIn: '#!',
+				github: '#!',
 				twitter: '#!'
 			}
 		]
 	},
 
 	{
-		name: 'Ousnik Polley',
+		name: 'Adil Ishaq (Reginal Operation Head)',
 		position: 'The Board',
-		image: 'ousnik_polley.jpg',
+		image: 'adil.jpg',
 		profiles: [
 			{
-				linkedIn: 'https://www.linkedin.com/in/ousnikpolley/',
-				github: 'https://github.com/ousnik'
+				linkedIn: '#!',
+				github: '#!'
 			}
 		]
 	},
 
 	{
-		name: 'Sukkrit Sharma',
+		name: 'Prabhav Dogra(Community Organiser)',
 		position: 'The Board',
-		image: 'sukkrit_sharma.jpg',
-		profiles: [
-			{
-				linkedIn: 'https://www.linkedin.com/in/sukkritsharma/',
-				github: 'https://github.com/sukkritsharmaofficial'
-			}
-		]
-	},
-	{
-		name: 'Suhrid Datta',
-		position: 'Technical Team',
-		image: 'suhrid_datta.jpg',
-		profiles: [
-			{
-				linkedIn: 'https://www.linkedin.com/in/suhrid-datta-834863157/',
-				github: 'https://github.com/suhriddatta'
-			}
-		]
-	},
-
-	{
-		name: 'Bidisha Mukherjee',
-		position: 'Technical Team',
-		image: 'bidisha_mukherjea.jpg',
+		image: 'prabhav.jpg',
 		profiles: [
 			{
 				linkedIn: '#!',
@@ -99,9 +76,9 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Ambarish Dattar',
+		name: 'Avinash Koshal (Reginal Technical Head)',
 		position: 'Technical Team',
-		image: 'ambarish_datar.jpg',
+		image: 'avinash.png',
 		profiles: [
 			{
 				linkedIn: '#!',
@@ -111,21 +88,9 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Apoorva Gupta',
+		name: 'Ayush Paharia (Technical Head)',
 		position: 'Technical Team',
-		image: 'apoorva_gupta.jpg',
-		profiles: [
-			{
-				linkedIn: 'https://www.linkedin.com/in/apoorvagupta30/',
-				github: '#!'
-			}
-		]
-	},
-
-	{
-		name: 'Rishabh Verma',
-		position: 'Technical Team',
-		image: 'Rishabh_Verma.jpg',
+		image: 'ayush.png',
 		profiles: [
 			{
 				linkedIn: '#!',
@@ -133,10 +98,24 @@ const teamDetails = [
 			}
 		]
 	},
+	
 	{
-		name: 'Arnab Dutta Purkayastha',
+		name: 'Zahid Bhat (Graphics Team Head)',
 		position: 'Creatives Team',
-		image: 'arnab_dutta.jpg',
+		image: 'zahid.png',
+		profiles: [
+			{
+				linkedIn: '#!',
+				github: '#!'
+			}
+		]
+	},
+
+	
+	{
+		name: 'Avikanshit (Reginal Managment Head)',
+		position: 'Management Team',
+		image: 'avikanshit.png',
 		profiles: [
 			{
 				linkedIn: '#!',
@@ -146,32 +125,9 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Suryanshi Kaushik',
-		position: 'Creatives Team',
-		image: 'suryanshi_kaushik.jpg',
-		profiles: [
-			{
-				linkedIn: 'https://www.linkedin.com/in/suryanshi-kaushik-206433182/',
-				github: '#!'
-			}
-		]
-	},
-
-	{
-		name: 'Ritik Rajput',
-		position: 'Creatives Team',
-		image: 'ritik_rajput.jpg',
-		profiles: [
-			{
-				linkedIn: '#!',
-				github: '#!'
-			}
-		]
-	},
-	{
-		name: 'Ram Maheshwari',
+		name: 'Sonali KUmari (Community Manager)',
 		position: 'Management Team',
-		image: 'ram_maheshwari.jpg',
+		image: 'sonali.png',
 		profiles: [
 			{
 				linkedIn: '#!',
@@ -180,41 +136,6 @@ const teamDetails = [
 		]
 	},
 
-	{
-		name: 'Jasprit Kaur',
-		position: 'Management Team',
-		image: 'jasprit_kaur.jpg',
-		profiles: [
-			{
-				linkedIn: 'https://www.linkedin.com/in/kaurjasprit/',
-				github: '#!'
-			}
-		]
-	},
-
-	{
-		name: 'Sriyash',
-		position: 'Management Team',
-		image: 'sriyash.jpg',
-		profiles: [
-			{
-				linkedIn: '#!',
-				github: '#!'
-			}
-		]
-	},
-
-	{
-		name: 'Rahul Sarvadevabhatla',
-		position: 'Management Team',
-		image: 'rahul_sarvadevabhatla.jpg',
-		profiles: [
-			{
-				linkedIn: 'https://www.linkedin.com/in/sarvadevabhatla-rahul-9419981a2/',
-				github: '#!'
-			}
-		]
-	}
 ];
 
 const generateProfileLinks = profileObject => {
