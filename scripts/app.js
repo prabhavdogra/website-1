@@ -2,7 +2,7 @@
 
 let header = $(`
 <nav class="navbar fixed-top navbar-expand-lg" id="navbar">
-  <a class="navbar-brand" href="index.html"><img src="assets/Images/logo/logo1.png" id="logo" alt="Girl Script Chennai Chapter Logo" aria-label="Girl Script Chennai Chapter Logo"></a>
+  <a class="navbar-brand" href="index.html"><img src="assets/Images/logo/logo1.png" id="logo" alt="Girl Script Jammu Chapter Logo" aria-label="Girl Script Chennai Chapter Logo"></a>
   <div id="myNav" class="fullScreen-navigation">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <div class="navigation-content" id="smallnav">
@@ -75,10 +75,10 @@ let footer = $(`
    <center>
 
 		<div class="social-media">
-		  <a class="fa fa-twitter"  href="https://twitter.com/girlscriptch"></a>
-		  <a class="fa fa-instagram" href="https://www.instagram.com/girlscriptchennai/"></a>
-		  <a class="fa fa-github" href="https://github.com/girlscriptchennai"></a>
-		  <a class="fa fa-linkedin" href="https://www.linkedin.com/company/girlscript-chennai/"></a>
+		  <a class="fa fa-twitter"  href="#"></a>
+		  <a class="fa fa-instagram" href="https://www.instagram.com/girlscript_jammu_and_kashmir/"></a>
+		  <a class="fa fa-github" href="https://www.linkedin.com/in/girlscript-jammu-and-kashmir-934826193/"></a>
+		  <a class="fa fa-linkedin" href="https://github.com/GirlScript-Jammu-kashmir"></a>
 		</div>
 		  <h6 class="footer-h3">Made with ♥</h6>
 	</center>
