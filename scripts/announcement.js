@@ -2,23 +2,24 @@ const announcementTimeline = [
 	{
 		eventName: 'Young Scholar Contest',
 		eventDescription: `It is a 5 day coding camp where everyone can participate and prepare
-		themselves for the upcoming Young Scholar Contest`,
-		eventDate: '12 June, 2020',
+		themselves for the upcoming Young Scholar Contest.`,
+		eventDate: 'June 12, 2020',
+		eventPageLink: './event1.html'
+	},
+			{
+		eventName: 'Young Scholar Contest',
+		eventDescription: `A contest for the participants to participate and showcase their skills and learnings from the previous workshop.
+		A two day competitive battle buckle up!`,
+		eventDate: 'June 17, 2020',
 		eventPageLink: './event1.html'
 	},
 	{
-		eventName: 'Young Scholar Contest',
-		eventDescription: `A contest for the participants to participate and show their skills and learnings from the previous workshop.
-		A two day competitive battle.`,
-		eventDate: '17 June, 2020',
+		eventName: 'Girlscript Summit Learning Contest',
+		eventDescription: `Get a headstart by learning with GirlScript Jammu. Pack your bags because it's a week long contest.`,
+		eventDate: 'June 19, 2020',
 		eventPageLink: './event1.html'
 	}
-		{
-		eventName: 'Girlscript Summit Learning Contest',
-		eventDescription: `Get a headstart by learning with GirlScript Jammu. Pack your bags because it's a week long contest`,
-		eventDate: '19 June, 2020',
-		eventPageLink: './event1.html'
-	},
+
 ];
 
 const recentEventsDetails = [
@@ -46,6 +47,7 @@ const recentEventsDetails = [
 		referencePage: '#!'
 	}
 ];
+
 
 const generateTimelineCard = (timelineDetail, position) => {
 	const { eventName, eventDescription, eventDate, eventPageLink } = timelineDetail;
