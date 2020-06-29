@@ -13,14 +13,14 @@ const mapProfileLinksToFavClasses = profileName => {
 
 const teamDetails = [
 	{
-		name: 'Mohit sharma (Reginal Head)',
+		name: 'Mohit sharma (Regional Head)',
 		position: 'The Board',
 		image: 'mohit1.png',
 		profiles: [
 			{
-				linkedIn: '#!',
-				github: '#!',
-				twitter: '#!'
+				linkedIn: 'https://in.linkedin.com/in/mohit-sharma-9ba35aa0?trk=people-guest_people_search-card',
+				github: 'github.com/Mohit-Sharma1',
+				twitter: 'https://twitter.com/mohitsharma_09?s=09'
 			}
 		]
 	},
@@ -31,9 +31,9 @@ const teamDetails = [
 		image: 'arsalan.jpg',
 		profiles: [
 			{
-				linkedIn: '#!',
-				github: '#!',
-				twitter: '#!'
+				linkedIn: 'https://www.linkedin.com/in/arsalan-ahmed-alyas-5a09a314b',
+				//github: '#!',
+				twitter: 'https://www.twitter.com/ArsalanAlyas'
 			}
 		]
 	},
@@ -52,7 +52,7 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Adil Ishaq (Reginal Operation Head)',
+		name: 'Adil Ishaq (Regional Operation Head)',
 		position: 'The Board',
 		image: 'adil.jpg',
 		profiles: [
@@ -64,19 +64,19 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Prabhav Dogra(Community Organiser)',
+		name: 'Prabhav Dogra       (Community Organiser )',
 		position: 'The Board',
 		image: 'prabhav.jpg',
 		profiles: [
 			{
-				linkedIn: '#!',
-				github: '#!'
+				linkedIn: 'https://www.linkedin.com/in/prabhav-dogra-659365187/',
+				github: 'https://github.com/prabhavdogra'
 			}
 		]
 	},
 
 	{
-		name: 'Avinash Koshal (Reginal Technical Head)',
+		name: 'Avinash Koshal (Regional Technical Head)',
 		position: 'Technical Team',
 		image: 'avinash.png',
 		profiles: [
@@ -113,7 +113,7 @@ const teamDetails = [
 
 	
 	{
-		name: 'Avikanshit (Reginal Managment Head)',
+		name: 'Avikanshit (Regional Managment Head)',
 		position: 'Management Team',
 		image: 'avikanshit.png',
 		profiles: [
@@ -125,7 +125,7 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Sonali KUmari (Community Manager)',
+		name: 'Sonali Kumari (Community Manager)',
 		position: 'Management Team',
 		image: 'sonali.png',
 		profiles: [
