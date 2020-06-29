@@ -1,48 +1,48 @@
 const announcementTimeline = [
 	{
-		eventName: 'Girlscript Contributors Week',
-		eventDescription: `It is a meetup where everyone who are a part of Girlscript will gather and share their
-							experience.`,
-		eventDate: 'June 20, 2020',
+		eventName: 'Young Scholar Contest',
+		eventDescription: `It is a 5 day coding camp where everyone can participate and prepare
+		themselves for the upcoming Young Scholar Contest`,
+		eventDate: '12 June, 2020',
 		eventPageLink: './event1.html'
 	},
 	{
-		eventName: 'Code Camp',
-		eventDescription: `It is a coding camp where everyone can participate and learn about different technologies.`,
-		eventDate: 'May 20, 2020',
-		eventPageLink: './event1.html'
-	},
-	{
-		eventName: 'Code Camp',
-		eventDescription: `It is a coding camp where everyone can participate and learn about different technologies.`,
-		eventDate: 'May 20, 2020',
+		eventName: 'Young Scholar Contest',
+		eventDescription: `A contest for the participants to participate and show their skills and learnings from the previous workshop.
+		A two day competitive battle.`,
+		eventDate: '17 June, 2020',
 		eventPageLink: './event1.html'
 	}
+		{
+		eventName: 'Girlscript Summit Learning Contest',
+		eventDescription: `Get a headstart by learning with GirlScript Jammu. Pack your bags because it's a week long contest`,
+		eventDate: '19 June, 2020',
+		eventPageLink: './event1.html'
+	},
 ];
 
 const recentEventsDetails = [
 	{
-		coverImage: 'assets/Images/announcement/producthunt.png',
-		eventName: 'Product Hunt',
-		altName: 'Product Hunt Logo',
-		eventDescription: `We are feeling much happy to announce Product Hunt as out official In-Kind partner.
-                                Thankyou for being with Girlscript and helping it make a success.`,
+		coverImage: 'assets/Images/announcement/eh.png',
+		eventName: 'Ethical Hacking',
+		altName: 'Ethical Hacking',
+		eventDescription: `We are feeling much happy to tell you that Mr. Devendra Kashyap, a system engineer from INFOSYS 
+		joined us for a session on Ethical Hacking.`,
 		referencePage: '#!'
 	},
 	{
-		coverImage: 'assets/Images/announcement/contributors.png',
-		eventName: 'Contributions',
-		altName: 'Contributors Illustration',
-		eventDescription: `We are extremely elated to see so many participants coming up with different skills and
-								new ways of approaching solution and contribute to the project.`,
+		coverImage: 'assets/Images/announcement/os.png',
+		eventName: 'Open source world',
+		altName: 'Step in to the world of open source',
+		eventDescription: `Mr. Gaurav Sharma explained the ins and outs of the open source world out there.`,
 		referencePage: '#!'
 	},
 	{
-		coverImage: 'assets/Images/announcement/DU-Express.png',
-		eventName: 'DU Express',
-		altName: 'DU Express Logo',
-		eventDescription: `We would like to thank DU Express (@DuExpress) to be our Media Partner for GirlScript
-								Summer Of Code 2020.`,
+		coverImage: 'assets/Images/announcement/im.png',
+		eventName: 'Influencer Marketing',
+		altName: 'Influencer Marketing',
+		eventDescription: `Thank you Mr. Devan Bhalla, TedX Speaker for imparting knowledge about
+		Personal Branding and Influencer Marketing.`,
 		referencePage: '#!'
 	}
 ];
