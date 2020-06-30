@@ -5,61 +5,60 @@ const moreCards = document.getElementById('moreCards');
 
 const projectDetails = [
 	{
-		coverImage: 'smile_please.jpg',
-		projectName: 'SmilePlease',
-		projectAuthor: 'Smaranjit Ghose',
-		projectDescription: `Wondering, if you could build the spell behind Apple's FaceID or perhaps even something better?But where, to start from..?Well, Python has your back for this as you craft your first script that detects a face to your attempt to reach the state-of-the-artzap
-		`,
-		githubLink: 'https://github.com/smaranjitghose/SmilePlease',
-		alternateName: 'Smileplease Project'
+		coverImage: 'track.png',
+		projectName: 'We Track-Keep your goals on Track',
+		projectAuthor: '',
+		projectDescription: `WeTrack - is a goal tracking application designed for people who want to keep their academic goals on track. With a primary feature of setting goals, and add ons such as motivational quote generation, a resource hub and tips and tricks. We plan to build this using HTML, CSS, Bootstrap and Vanilla Javascript, (maybe a bit of jQuery). We might also try and convert this into a PWA if time permits.`,
+		githubLink: 'https://github.com/The-Uplift-Project/html-css-js/tree/Team---HTML01',
+		alternateName: 'Goals Tracking Project'
 	},
 	{
-		coverImage: 'chrome_profiler.jpg',
-		projectName: 'Profile Chrome Extension',
-		projectAuthor: 'Smaranjit Ghose',
-		projectDescription: `Tried of having all your favorite links cluttered and messed in yur bookmarks? Then we might a solution for you! Check out our simple chrome extension for keeping all your social media profiles under the same roof right by your side at all times!`,
-		githubLink: 'https://github.com/smaranjitghose/profile_chrome_extension',
-		alternateName: 'Profile extension'
+		coverImage: 'career.jpg',
+		projectName: 'Career Choices and Education',
+		projectAuthor: '',
+		projectDescription: `The primary purpose for our Project is to create a Website for Students to get the required Career Paths in various fields which they can follow to excel in their future. We will also have a section where they can view recent Internship Opportunities, Learning Courses that they can undertake and Blogs which allows them to better understand the need of the future and more.`,
+		githubLink: 'https://github.com/The-Uplift-Project/html-css-js/tree/Team-HTML04',
+		alternateName: 'Career path project'
 	},
 	{
-		coverImage: 'Anonymizer.jpg',
-		projectName: 'Face Anonymizer',
-		projectAuthor: 'Smaranjit Ghose',
-		projectDescription: `A python project that uses facial recognition to anonymize your face.`,
-		githubLink: 'https://github.com/smaranjitghose/incognitopy',
-		alternateName: 'Face Anonymizer Project'
+		coverImage: 'face.jpeg',
+		projectName: 'Face Detection',
+		projectAuthor: '',
+		projectDescription: `We are working towards utilizing deep learning concepts to develop a robust face recognition system that can work on images/videos. Once the network recognises face, we aim towards implementing facial expression recognition, mask detection (whether a person is wearing a mask or not) and hand gesture recognition systems.`,
+		githubLink: '#',
+		alternateName: 'Face detection Project'
 	}
 ];
 
 const addditionalProjects = [
 	{
-		coverImage: 'invisibility.jpg',
-		projectName: 'Cloak of Invisibility',
-		projectAuthor: 'Smaranjit Ghose',
-		projectDescription: `Ever wondered how Harry Potter used to become invisible using the cloak of invisibility.Now its your turn to do the same cuz python's here to help you experience magic in real life..!`,
-		githubLink: 'https://github.com/smaranjitghose/PyDeceive/',
-		alternateName: 'Cloak of Invisibility Project'
+		coverImage: 'recycle.jpg',
+		projectName: 'Classification of Trash for Recyclabilty Status',
+		projectAuthor: '',
+		projectDescription: `A computer vision approach to classifying garbage into recycling categories could be an efficient way to process waste. The objective of this project is to take images of a single piece of recycling or garbage and classify it into six classes consisting of glass, paper, metal, plastic, cardboard, and trash. We will create a dataset that contains around 400-500 images for each class. We plan to release this dataset for the public. Some of the models to be used are support vector machines (SVM) with scale-invariant feature transform (SIFT) features and a convolutional neural network (CNN).This model can be wrapped in an app for better utility.`,
+		githubLink: '#',
+		alternateName: 'Recyclability project'
 	},
 	{
 		coverImage: 'doc2pen.jpg',
 		projectName: 'Doc2Pen',
-		projectAuthor: 'Smaranjit Ghose',
+		projectAuthor: '',
 		projectDescription: `A student's savior to submit those assignments by just typing them out and getting it hand written on the go!`,
 		githubLink: 'https://github.com/smaranjitghose/doc2pen',
 		alternateName: 'Doc2Pen'
 	},
 	{
 		coverImage: 'sketch.jpg',
-		projectName: 'sketchPy',
-		projectAuthor: 'Smaranjit Ghose',
-		projectDescription: `The python friend of our's who takes your creativity to next level! Convert all your images to a sketch with the use of this simple spplication`,
-		githubLink: 'https://github.com/smaranjitghose/sketchPy',
-		alternateName: 'Doc2Pen'
+		projectName: 'Nostalgify',
+		projectAuthor: '',
+		projectDescription: `Human beings are social animals and there are points in life when we look back on our journey to reflect and connect with classmates. Many universities in the world have a listing of the classes of various years, like class of 20xx but not all institutions(tutors, dance classes, creative arts institutes, schools) have the technical knowledge to set this up and keep it up to date. Several institution websites lack utility features like graphing / profile updates etc which can help keep it better updated. This project would fix the above mentioned issues.`,
+		githubLink: 'https://github.com/The-Uplift-Project/open-source-development/tree/Team-OS3',
+		alternateName: 'Nostalgia giffy'
 	},
 	{
-		coverImage: 'pomodoro.jpg',
+		coverImage: 'pymodoro.png',
 		projectName: 'PyPomodoro',
-		projectAuthor: 'Smaranjit Ghose',
+		projectAuthor: '',
 		projectDescription: `The ancient technique to boost your productivity just took a form in Python! The Pomodoro application that boosts you work by 10x guaranteed!`,
 		githubLink: 'https://github.com/smaranjitghose/PyPomodoro',
 		alternateName: 'PyPomodoro'
@@ -67,7 +66,7 @@ const addditionalProjects = [
 	{
 		coverImage: 'portfolio.jpg',
 		projectName: 'Awesome Portfolio Websites',
-		projectAuthor: 'Smaranjit Ghose',
+		projectAuthor: '',
 		projectDescription: `Showcase your skills with the rest of the world through our beautifully created portfolio websites.`,
 		githubLink: 'https://github.com/smaranjitghose/PyPomodoro',
 		alternateName: 'Awesome Portfolio Websites'
@@ -105,18 +104,18 @@ const memberUpToCardsDetails = [
 
 const countDownDetails = [
 	{
-		text: 'Events Conducted',
-		countFrom: 50,
+		text: 'Lets Py',
+		countFrom: 3000,
 		iconClasses: 'afab fa fa-laptop fa-3x'
 	},
 	{
-		text: 'Projects Undertaken',
-		countFrom: 15,
+		text: 'GirlScript Summer of Code',
+		countFrom: 3500,
 		iconClasses: 'afab fa fa-trophy fa-3x'
 	},
 	{
-		text: 'People Impacted',
-		countFrom: 1500,
+		text: 'GirlScript India Summit',
+		countFrom: 2500,
 		iconClasses: 'afab fa fa-user fa-3x'
 	}
 ];
