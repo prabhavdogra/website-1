@@ -64,7 +64,7 @@ const teamDetails = [
 	},
 
 	{
-		name: 'Prabhav Dogra       (Community Organiser )',
+		name: 'Prabhav Dogra (Community Organiser)',
 		position: 'The Board',
 		image: 'prabhav.jpg',
 		profiles: [
@@ -86,6 +86,28 @@ const teamDetails = [
 			}
 		]
 	},
+		{
+		name: 'Tejas Mishra (Campus Ambassador)',
+		position: 'Technical Team',
+		image: 'tejas.jpg',
+		profiles: [
+			{
+				linkedIn: '#!',
+				github: '#!'
+			}
+		]
+	},
+		{
+		name: 'Pritam Kumari (Regional Team Member)',
+		position: 'Technical Team' ,
+		image: 'prtam.jpg' ,
+		profiles: [
+			{
+				linkedIn: '#!',
+				github: '#!'
+			}
+		]
+	},
 
 	{
 		name: 'Ayush Paharia (Technical Head)',
@@ -98,7 +120,17 @@ const teamDetails = [
 			}
 		]
 	},
-	
+	{
+		name: 'Navya Jyoti (Technical Head)',
+		position: 'Technical Team',
+		image: 'navya.jpg',
+		profiles: [
+			{
+				linkedIn: '#!',
+				github: '#!'
+			}
+		]
+	},
 	{
 		name: 'Zahid Bhat (Graphics Team Head)',
 		position: 'Creatives Team',
@@ -110,6 +142,43 @@ const teamDetails = [
 			}
 		]
 	},
+
+	{
+		name: 'Ankit Kapoor (Graphics Team Member)',
+		position: 'Creatives Team',
+		image: 'ankit.jpg',
+		profiles: [
+			{
+				linkedIn: '#!',
+				github: '#!'
+			}
+		]
+	},
+	{
+		name: 'Prerna Heera (Graphics Team Member)',
+		position: 'Creatives Team',
+		image: 'prerna.jpg',
+		profiles: [
+			{
+				linkedIn: '#!',
+				github: '#!'
+			}
+		]
+	},
+
+		{
+		name: 'Anmol Reshi (Content Writer)',
+		position: 'Creatives Team',
+		image: 'anmol_re.jpg',
+		profiles: [
+			{
+				linkedIn: '#!',
+				github: '#!'
+			}
+		]
+	},
+
+
 
 	
 	{
@@ -127,6 +196,17 @@ const teamDetails = [
 	{
 		name: 'Sonali Kumari (Community Manager)',
 		position: 'Management Team',
+		image: 'sonali.png',
+		profiles: [
+			{
+				linkedIn: '#!',
+				github: '#!'
+			}
+		]
+	},
+	{
+		name: 'Vishally Gupta (Management Manager)',
+		position: 'Management Team Member',
 		image: 'sonali.png',
 		profiles: [
 			{
